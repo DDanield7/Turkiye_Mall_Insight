@@ -1,11 +1,6 @@
 <h2> Insight </h2>
 
-1. in picture 1 we see consistent spiking pattern.
-
-except for december to january increase in sales this indicating end of year,
-also for august and september streak decrease in sales.
-
-lowest sales at february and peak at october.
+1. in picture 1 we see consistent spiking pattern.except for december to january increase in sales this indicating end of year,also for august and september streak decrease in sales.lowest sales at february and peak at october.
 
 2. gender dominated by female customer with 59.8%
 3. top 3 category for both male and female are clothing, cosmetic and fnb
