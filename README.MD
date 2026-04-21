@@ -7,7 +7,7 @@ In this project, I performed an Exploratory Data Analysis (EDA) on the 'TurkiyeM
 
 <img src="Graph/2021 vs 2022 Monthly Sales.png" width="700">
 1. As shown in the chart above, the data reveals a consistent seasonal pattern. We see a significant spike from December to January, reflecting end-of-year shopping trends. Conversely, there is a noticeable downward trend throughout August and September. Sales reach their lowest point in February before climbing to a peak in October.
----
+&mdash;
 <br>
 <img src="Graph/Gender Demography.png" width="300">
 2. Gender dominated by female customer with 59.8%
